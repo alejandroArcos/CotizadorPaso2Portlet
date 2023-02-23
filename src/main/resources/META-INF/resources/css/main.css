@@ -1,0 +1,29 @@
+#tabs .card .card-header{
+	background-color: #1976d2;
+}
+
+.site-wrapper .paso2Datos .table-wrapper-scroll-table {
+	position: relative;
+	max-width: 70%;
+	overflow-x: auto;
+}
+
+.site-wrapper .paso2Datos .tablaTotal {
+	width: 100%;
+	display: block;
+}
+
+.site-wrapper .paso2Datos .tablaTit {
+	width: 10%;
+}
+
+.site-wrapper .paso2Datos .tablaTotal2 {
+	width: 15%;
+	max-width: 15%;
+	left: 1px;
+}
+
+.site-wrapper .paso2Datos .btn-ubicacion {
+	width: 210px;
+	height: 50px;
+}

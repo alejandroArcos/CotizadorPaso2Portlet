@@ -1,0 +1,7 @@
+Bundle-Name: CotizadorPaso2Portlet
+Bundle-SymbolicName: com.tokio.paso2
+Bundle-Version: 1.0.0
+Export-Package: com.tokio.paso2.constants
+Bundle-Description: Datos de Riesgo y modalidad
+Bundle-Category: COTIZADORES
+Bundle-Copyright: GQ
